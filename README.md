@@ -52,3 +52,6 @@ npm install
 
 # Start backend
 nodemon index.js
+
+🙌 About This Project
+Rent Ease was built to practice full-stack development with modern technologies. It combines secure authentication, real-time image handling, and responsive UI in a complete rental solution.
